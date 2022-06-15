@@ -7,7 +7,7 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let premium = `
-*SHIRAORI BOT PRICE*
+*MOON BOT PRICE*
 
 ◩ *FREE USER*
 └───────
@@ -33,7 +33,7 @@ let premium = `
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'DONASI',
+               displayText: 'MoonBot',
                url: 'https://urlis.net/Moon'
              }
 
