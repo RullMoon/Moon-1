@@ -46,8 +46,8 @@ ${vid.url}
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'DONASI',
-               url: 'https://saweria.co/ilmanhdyt',
+               displayText: 'Moon',
+               url: 'https://urlis.net/Moon',
              }
 
            },
